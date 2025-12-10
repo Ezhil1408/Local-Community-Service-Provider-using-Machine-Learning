@@ -1,0 +1,20 @@
+# Environment files (do NOT upload)
+.env
+backend/.env
+
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# Build output
+build/
+dist/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
